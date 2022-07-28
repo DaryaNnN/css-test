@@ -210,6 +210,7 @@ input {
   cursor: pointer;
   border: 1 px solidrgb(70, 27, 0);
   transition: opacity ease 0.3s;
+  font-size: 30px;
 }
 
 .btn:hover {
